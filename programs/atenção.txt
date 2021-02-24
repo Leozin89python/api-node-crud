@@ -1,0 +1,25 @@
+imports:
+
+npm init -y 
+npm i uuidv4
+npm i typescript
+npm i express
+npm i @types/express
+npm i ts-node-dev -D
+npm i nodemon
+
+npm uninstall nodemon
+
+comandos: 
+
+npx tsc --init
+npx tsc
+
+npm run dev
+
+
+package.json:
+
+ "scripts": {
+   "dev": "ts-node-dev --inspect --ignore-watch node_modules ./program.js"
+  },

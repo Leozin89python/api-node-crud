@@ -1,0 +1,37 @@
+        dados para persistência no postman
+
+    {
+        "item": "feijão",
+        "preco": "7.95",
+        "quantidade": "30"
+    }
+    
+    {
+        "item": "pão",
+        "preco": "2.75",
+        "quantidade": "10"
+    }
+    
+    {
+        "item": "farinha",
+        "preco": "5.37",
+        "quantidade": "230"
+    }
+    
+    {
+        "item": "leite liquido betânia",
+        "preco": "2.36",
+        "quantidade": "190"
+    }
+
+    {
+        "item": "margarina deline 250g",
+        "preco": "1.36",
+        "quantidade": "490"
+    }
+
+    {
+        "item": "detergente atol 500ml",
+        "preco": "2.75",
+        "quantidade": "50"
+    }

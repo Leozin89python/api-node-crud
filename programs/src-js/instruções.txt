@@ -1,0 +1,22 @@
+instalações:
+
+npm init -y
+npm i express
+npm i nodemon
+npm i uuidv4
+
+npm i
+
+comandos:
+
+npm start
+ctrl + c
+
+
+configurações:
+
+"scripts": {
+    "start": "nodemon program.js"
+  },
+
+
