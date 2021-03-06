@@ -41,19 +41,7 @@ app.post('/movie',(req,res)=>{
             starring, 
             co_starring
     }
-    /*
-    O FORMATO ABAIXO SEM O USO DE DESESTRUCTURING
-    GERA UM LOOPING(ERRO) DE DADOS ENVIADOS NO POST
-    E POSTERIORMENTE NO METODO GET.
-
-    const movieProduction = {
-        id:req.body,
-        movie:req.body, 
-        director:req.body, 
-        year:req.body, 
-        starring:req.body, 
-        co_starring:req.body
-}*/
+ 
 
     hollywood.push(movieProduction)
     return res.status(201)
