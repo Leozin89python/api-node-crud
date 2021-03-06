@@ -1,0 +1,52 @@
+[
+    {
+        "movie":"Spider-man 2",
+        "director":"Sam Raimi",
+        "year":2004,
+        "starring":"Tobey maguire",
+        "co_starring":"Kirsten dunrst"
+    },{
+        "movie":"Spider-man",
+        "director":"Sam Raimi",
+        "year":2002,
+        "starring":"Tobey maguire",
+        "co_starring":"Kirsten dunst"
+   },{
+        "movie":"Batman begins",
+        "director":"Cristopher Nolan",
+        "year":2006,
+        "starring":"Cristian Bale",
+        "co_starring":"Michael Kane"
+   },{
+        "movie":"King Kong",
+        "director":"Peter Jackson",
+        "year":null,
+        "starring":"Naomi Wats",
+        "co_starring":"Black Jack"
+  },{
+        "movie":"Matrix",
+        "director":"The Wachowsky brothers",
+        "year":1999,
+        "starring":"Keanu Reeves",
+        "co_starring":"Carrie Anne Moss"
+    },{
+        "movie":"Aliens 2",
+        "director":"James Cameron",
+        "year":1982,
+        "starring":"Sigourne Weaver",
+        "co_starring":null
+    },{
+        "movie":"Titanic",
+        "director":"James Cameron",
+        "year":1997,
+        "starring":"Leonardo Di Caprio",
+        "co_starring":"Kate Winslet"
+    },{
+        "movie":"Hulk",
+        "director":"Ang Lee",
+        "year":2003,
+        "starring":"Eric Bana",
+        "co_starring":"Jeniffer Connely"
+    }
+
+]
